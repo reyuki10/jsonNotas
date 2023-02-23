@@ -1,20 +1,26 @@
-[
-    {
-        "titulo": "Ejercicios",
-        "detalles": "Sentadillas, Cardio, Flexones...",
-        "favorito": true,
-        "phone": "678767896"
-    },
-    {
-        "titulo": "Nuevo Contacto",
-        "detalles": "Contacto para llamar, Profesor particular.",
-        "favorito": false,
-        "phone": "658123875"
-    },
-    {
-        "titulo": "Cita Medico",
-        "detalles": "Miercoles 14, a las 12:00",
-        "favorito": true,
-        "phone": "932871987"
-    }
-]
+{
+    "notas":
+    [
+        {
+            "id": 1,
+            "titulo": "Ejercicios",
+            "detalles": "Sentadillas, Cardio, Flexones...",
+            "favorito": true,
+            "phone": "678767896"
+        },
+        {
+            "id": 2,
+            "titulo": "Nuevo Contacto",
+            "detalles": "Contacto para llamar, Profesor particular.",
+            "favorito": false,
+            "phone": "658123875"
+        },
+        {
+            "id": 3,
+            "titulo": "Cita Medico",
+            "detalles": "Miercoles 14, a las 12:00",
+            "favorito": true,
+            "phone": "932871987"
+        }
+    ]
+}
